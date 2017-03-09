@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is for course 1 assignment
+This is for Data Science course assignments
